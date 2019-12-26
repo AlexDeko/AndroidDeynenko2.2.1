@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidDeynenko2.2.1</string>
+    <string name="save">Сохранить</string>
+    <string name="toast_save">данные сохранены</string>
+</resources>
